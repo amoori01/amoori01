@@ -1,24 +1,29 @@
-<h1 align="center">Hey there, I'm Omer Jafar 👋🏽</h1>
+<h1 align="center">Hey there, I'm Omer Jafar 👋🏽</h1> <h3 align="center">Backend-Developer| Full-Stack Developer | Software Engineering </h3>
 
 ###
 
-<div align="center">
-  <a href="mailto:omarjafarcool@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+<h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+  <a href="mailto:omarjafarcool@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/omer-jafar-66aab7401" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/omer-jafar-66aab7401/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/amoori.1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+  <a href="https://portfolio-amoori.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://t.me/amoori01" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo"  />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.instagram.com/amoori.1/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://web.facebook.com/amoori.01" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-</div>
+</p>
 
 ###
 
@@ -39,20 +44,28 @@
 <h2 align="left">🔍 Know Who I'm</h2>
 
 ###
-
 <p align="left">
-Hi everyone! I'm Omer Jafar from Addis Ababa, Ethiopia.<br>
-I'm currently a second-year Software Engineering student at BITS College.<br>
-I'm passionate about Backend Development, Web Technologies, and Software Engineering, and I enjoy building practical applications while continuously learning new technologies.
+Hi everyone! 👋 I'm <strong>Omer Jafar</strong> from Addis Ababa, Ethiopia 🇪🇹.<br>
+I'm a Software Engineering student at BITS College with a passion for <strong>Backend Development</strong>, <strong>Full-Stack Web Development</strong>, and <strong>Software Engineering</strong>.<br>
+I enjoy designing scalable web applications, building RESTful APIs, solving real-world problems, and continuously learning modern technologies to grow as a developer.
 </p>
 
-<p align="left">Outside of coding, I love engaging in activities that keep me creative and inspired:</p>
+<ul align="left">
+  <li>🎓 Second-year Software Engineering student at BITS College.</li>
+  <li>🚀 Building scalable web applications, RESTful APIs, and modern software solutions.</li>
+  <li>🌱 Currently exploring System Design, Cloud Computing, DevOps, and AI-powered applications.</li>
+  <li>🏗️ Interested in software architecture, clean code, performance optimization, and scalable systems.</li>
+  <li>🤝 Open to internships, collaborations, and open-source contributions.</li>
+  <li>🎯 Aspiring to build impactful software that creates meaningful real-world solutions.</li>
+</ul>
+
+<p align="left"><strong>Outside of coding, you'll usually find me:</strong></p>
 
 <ul align="left">
-  <li>Building Personal Projects 💻</li>
-  <li>Learning New Technologies 📚</li>
-  <li>Playing Basketball 🏀</li>
-  <li>Watching Anime 🍿</li>
+  <li>💻 Building personal projects</li>
+  <li>📚 Exploring new technologies and frameworks</li>
+  <li>🏀 Playing basketball</li>
+  <li>🍿 Watching anime</li>
 </ul>
 
 ###
@@ -155,13 +168,7 @@ I'm passionate about Backend Development, Web Technologies, and Software Enginee
 
 ###
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/amoori01">
@@ -172,20 +179,6 @@ I'm passionate about Backend Development, Web Technologies, and Software Enginee
 ![Top language](https://stats.pphat.top/languages?username=amoori01)
 <br/>
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/omer-jafar-66aab7401/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;
-  <a href="https://x.com/amoori187">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
-  </a>&nbsp;
-  <a href="mailto:omarjafarcool@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;
-  <a href="https://portfolio-amoori.vercel.app/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
-</p>
+
 
 ###
