@@ -118,6 +118,43 @@ I'm passionate about Backend Development, Web Technologies, and Software Enginee
 
 ###
 
+<table align="left" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧾 Employee Management System</h3>
+      <p>Full-stack HR platform covering authentication, attendance, leave management, and grievance handling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="nestjs" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="nextjs" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="prisma" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="postgresql" />
+      </p>
+      <ul>
+        <li>Full SRS with architecture rationale and trade-off analysis</li>
+        <li>Complete repo docs — README, CONTRIBUTING, CODE_OF_CONDUCT, SECURITY</li>
+        <li>Built the Grievance module end-to-end, UI to API</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 QR Code Menu Platform</h3>
+      <p>View-only digital restaurant menus accessed via QR code — no app download required.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="react" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="nodejs" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="postgresql" />
+      </p>
+      <ul>
+        <li>Full project proposal with a 14-week phased delivery plan</li>
+        <li>Designed for view-only access — fast, lightweight, no login friction</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br clear="both">
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amoori01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amoori01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
