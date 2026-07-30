@@ -1,113 +1,96 @@
-<h1 align="center">Hey there, I'm Omer Jafar👋🏽</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CFF,100:22D3EE&height=220&section=header&text=Omer%20Jafar&fontSize=42&fontColor=ffffff&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%20IT%20Support&descSize=18&descAlign=50&descAlignY=58)
+<div align="center">
 
-###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CFF&center=true&vCenter=true&width=600&lines=Full-Stack%20Software%20Engineer;Building%20Scalable%20Web%20Applications;Backend%20Architecture%20%26%20Systems)](https://git.io/typing-svg)
+
+</div>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=amoori01&color=8B5CFF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+## ⚡ About Me
+- I am a Software Engineering student driven by turning ambitious ideas into production-ready applications.
+- I specialize in full-stack development with a strong focus on backend scalability and modern web architecture.
+- My core workflow revolves around React, Next.js, NestJS, and Ruby on Rails.
+## 🚀 What I'm Up To
+
+- Architecting scalable backend systems with NestJS and Rails
+- Building modern web applications with Next.js and React
+- Ask me about system design, PostgreSQL, and REST APIs
+
+## 🛠️ Tech Arsenal
+<div align="center">
+
+![NestJS
+NestJS
+javascript
+Javascript
+typescript
+Typescript
+Rails
+node
+Node.Js
+react
+React.Js
+mongoDb
+Mongo DB
+Next.js
+git
+Git
+firebase
+Firebase
+docker
+Docker
+SQL
+Postgresql
+Python
+Python
+haskell
+Java
+drizzle
+Drizzle
+Prisma
+MySQL
+GSAP
+Vercel
+npm
+GitHub
+Vite
+tailwind
+Tailwind CSS
+mui
+Material UI
+Postman
+Postman](https://img.shields.io/badge/NestJS%0ANestJS%0Ajavascript%0AJavascript%0Atypescript%0ATypescript%0ARails%0Anode%0ANode.Js%0Areact%0AReact.Js%0AmongoDb%0AMongo%20DB%0ANext.js%0Agit%0AGit%0Afirebase%0AFirebase%0Adocker%0ADocker%0ASQL%0APostgresql%0APython%0APython%0Ahaskell%0AJava%0Adrizzle%0ADrizzle%0APrisma%0AMySQL%0AGSAP%0AVercel%0Anpm%0AGitHub%0AVite%0Atailwind%0ATailwind%20CSS%0Amui%0AMaterial%20UI%0APostman%0APostman-555?style=for-the-badge)
+
+</div>
+## 📊 GitHub Analytics
+<div align="center">
+
+![amoori01's GitHub stats](https://github-readme-stats.vercel.app/api?username=amoori01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amoori01&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=amoori01&theme=tokyonight&hide_border=true)
+
+</div>
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amoori01&theme=tokyo-night&hide_border=true&area=true)](https://github.com/amoori01)
+
+</div>
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=amoori01&theme=tokyonight&no-frame=true&column=7&margin-w=10)
+
+</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:8B5CFF&height=120&section=footer&text=&fontSize=42)
 
 <div align="center">
-  <a href="omarjafarcool@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/omer-jafar-66aab7401" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/amoori.1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/amoori01" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo"  />
-  </a>
-  <a href="https://web.facebook.com/amoori.01" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
-  </a>
+
+[![Made with ReadmeBuddy](https://img.shields.io/badge/Made%20with-ReadmeBuddy-8B5CFF?style=for-the-badge&logo=markdown&logoColor=white)](https://readmebuddy.com)
+
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3k4YmZ4cnYyYXhld3h0eTBwdGwxamc4dnBjYjRxNHZjZXJ2NGNkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=amoori01.amoori01&left_text=Profile%20Views"  />
-</div>
-
-###
-
-<h2 align="left">🔍About Me</h2>
-
-###
-
-<p align="left">👩🏽‍💻-Software Engineer and IT.<br>🖥️📐-Software Design & Backend developer based in Ethiopia. <br>🏗️-Specialize in building clean, functional, and user-friendly web and desktop applications that solve real-world problems, especially within local communities.</p>
-
-###
-
-<h2 align="left">🛠 Language and tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-</div>
-
-###
-
-<h2 align="left">🔥My Work</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amoori01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amoori01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amoori01&theme=high-contrast" height="150" alt="activity-graph graph"  />
-</div>
-
-###
