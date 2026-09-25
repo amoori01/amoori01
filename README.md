@@ -46,14 +46,14 @@
 ###
 <p align="left">
 Hi everyone! 👋 I'm <strong>Omer Jafar</strong> from Addis Ababa, Ethiopia 🇪🇹.<br>
-I'm a Software Engineering student at BITS College with a passion for <strong>Backend Development</strong>, <strong>Full-Stack Web Development</strong>, and <strong>Software Engineering</strong>.<br>
+I'm a Software Engineering with a passion for <strong>Backend Development</strong>, <strong>Full-Stack Web Development</strong>, and <strong>Software Engineering</strong>.<br>
 I enjoy designing scalable web applications, building RESTful APIs, solving real-world problems, and continuously learning modern technologies to grow as a developer.
 </p>
 
 <ul align="left">
-  <li>🎓 Second-year Software Engineering student at BITS College.</li>
+  <li>🎓 Software Engineering student at BITS College.</li>
   <li>🚀 Building scalable web applications, RESTful APIs, and modern software solutions.</li>
-  <li>🌱 Currently exploring System Design, Cloud Computing, DevOps, and AI-powered applications.</li>
+  <li>🌱 Currently exploring System Design, DevOps, and AI-powered applications.</li>
   <li>🏗️ Interested in software architecture, clean code, performance optimization, and scalable systems.</li>
   <li>🤝 Open to internships, collaborations, and open-source contributions.</li>
   <li>🎯 Aspiring to build impactful software that creates meaningful real-world solutions.</li>
@@ -79,12 +79,12 @@ I enjoy designing scalable web applications, building RESTful APIs, solving real
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript badge" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript badge" />
   <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="rails badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs badge" />
+  <!--<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs badge" />-->
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react badge" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb badge" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git badge" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase badge" />
+  <!--<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase badge" />-->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python badge" />
